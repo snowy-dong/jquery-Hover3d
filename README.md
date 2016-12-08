@@ -5,7 +5,7 @@ jQuery Hover3d is a simple hover script for creating 3d hover effect. It was my 
 The idea is transforming the element into 3d space using CSS3 transform, playing with translateZ for spacing the elements, and detecting mouse movement to change the transform value
 
 ##Demo
-Check out the demo here [Demo](http://snowy-dong.github.io)
+Check out the demo here [Demo](https://snowy-dong.github.io/jquery-Hover3d/index.html)
 
 ##Usage
 Include jQuery, and jquery.hover3d.min.js within your HTML
